@@ -1,0 +1,4 @@
+Changing pictures on HTML-page from JS/Jquery script-file.
+
+HIT - add one more card
+SKIP - skips all cards
